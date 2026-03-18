@@ -1,0 +1,1 @@
+# ADR 001: Standardizing on Cloud Run
