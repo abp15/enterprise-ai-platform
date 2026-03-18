@@ -1,3 +1,1 @@
-module "llm_gateway" {
-  source = "../../modules/cloud_run_service"
-}
+# Terraform for prj-d-ai-platform-3c4d
